@@ -18,7 +18,8 @@
 				<configuration>
 				<testFailureIgnore>true</testFailureIgnore>
 					<suiteXmlFiles>
-						<suiteXmlFile>config\Team2TaxExempt.xml</suiteXmlFile>
+						<suiteXmlFile>config\OrderHistory.xml</suiteXmlFile>
+						<suiteXmlFile>config\SubmitReq.xml</suiteXmlFile>
 							</suiteXmlFiles>
 				</configuration>
 			</plugin>
